@@ -1,4 +1,4 @@
-# Alfred-Workflows
+# [Alfred](http://alfredapp.com) Workflows
 ## Notes
 Filter a directory of notes by filename or contents.
 
