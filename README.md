@@ -24,6 +24,12 @@ Set a timer for n minutes.
 
 ![Timer screenshot](https://raw.githubusercontent.com/jamesmclendon/Alfred-Workflows/master/Timer.png)
 
+## Notification Center
+
+Toggle Activation Center & Do Not Disturb.
+
+**[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Notification-Center.alfredworkflow?raw=true)**
+
 ## Noise
 
 Toggle brown noise. Requires [SoX](http://sox.sourceforge.net).
