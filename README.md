@@ -31,7 +31,7 @@ Set a timer for n minutes.
 
 ## Notification Center
 
-- `enter`: toggle Activation Center
+- `enter`: toggle Notification Center
 - `cmd` + `enter`: toggle Do Not Disturb
 
 **[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Notification-Center.alfredworkflow?raw=true)**
