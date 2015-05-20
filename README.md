@@ -2,7 +2,12 @@
 
 ## Notes
 
-Filter a directory of notes by filename or contents.
+Filter files by filename or contents. Open, reveal in Finder, or preview selection with Quick Look.
+
+- `enter`: open in the default editor
+- `cmd`: reveal in Finder
+- `alt`: preview with Quick Look
+
 
 **[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Notes.alfredworkflow?raw=true)**
 
