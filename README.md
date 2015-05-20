@@ -5,8 +5,8 @@
 Filter files by filename or contents. Open, reveal in Finder, or preview selection with Quick Look.
 
 - `enter`: open in the default editor
-- `cmd + enter`: reveal in Finder
-- `alt + enter`: preview with Quick Look
+- `cmd` + `enter`: reveal in Finder
+- `alt` + `enter`: preview with Quick Look
 
 
 **[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Notes.alfredworkflow?raw=true)**
