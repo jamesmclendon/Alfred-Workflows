@@ -8,7 +8,6 @@ Filter files by filename or contents. Open, reveal in Finder, or preview selecti
 - `cmd` + `enter`: reveal in Finder
 - `alt` + `enter`: preview with Quick Look
 
-
 **[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Notes.alfredworkflow?raw=true)**
 
 ![Notes screenshot](https://raw.githubusercontent.com/jamesmclendon/Alfred-Workflows/master/Notes.png)
@@ -35,9 +34,3 @@ Set a timer for n minutes.
 - `cmd` + `enter`: toggle Do Not Disturb
 
 **[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Notification-Center.alfredworkflow?raw=true)**
-
-## Noise
-
-Toggle brown noise. Requires [SoX](http://sox.sourceforge.net).
-
-**[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/Noise.alfredworkflow?raw=true)**
