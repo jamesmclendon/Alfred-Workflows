@@ -30,6 +30,8 @@ Requires [mplayer](http://www.mplayerhq.hu/).
 
 `brew install mplayer`
 
+Add `shell -$SHELL` to `~/.screenrc` to allow screen to accept the ANSI escape sequences required for MPlayer's seek commands. 
+
 ###[Download](https://github.com/jamesmclendon/Alfred-Workflows/blob/master/MPlay.alfredworkflow?raw=true)###
 
 ## Notes
